@@ -14,7 +14,7 @@ This system was developed as part of the **TEKNOFEST International Unmanned Aeri
 
 ---
 
-# System Overview
+## System Overview
 
 The system consists of two main modules:
 
@@ -58,7 +58,7 @@ Preferred components in this project:
 
 ---
 
-# Flight Mode Control
+## Flight Mode Control
 
 Control switches on the transmitter are used to change flight modes of the UAV.
 
@@ -70,7 +70,7 @@ The flight controller interprets the received RC channel values and activates th
 
 ---
 
-# System Architecture
+## System Architecture
 
 Control Inputs  ->  Transmitter Microcontroller  ->  NRF24L01 Wireless Communication  ->  Receiver Microcontroller  ->  Prepared RC Channel Signals  ->  Pixhawk Flight Controller
 
@@ -85,7 +85,7 @@ The Pixhawk flight controller is responsible for:
 
 ---
 
-# Applications
+## Applications
 
 This project can be used as a reference for:
 
@@ -97,13 +97,13 @@ This project can be used as a reference for:
 
 ---
 
-# Possible Future Improvements
+## Possible Future Improvements
 
 Different communication alternatives may be explored to extend the system.
 
 ---
 
-# Authors
+## Authors
 
 Yasemin KURT
 
