@@ -105,7 +105,7 @@ Different communication alternatives may be explored to extend the system.
 
 # Authors
 
-Yasemin Kurt
+Yasemin KURT
 
 Neziha BURHAN
 
